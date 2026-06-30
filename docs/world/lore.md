@@ -11,6 +11,17 @@ Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielk
 
 ---
 
+## ⏳ Wielka Wojna i Rytuał Letargu (Uśpienie Bogów)
+
+Eskalacja konfliktu między bogami (Pyrakos, Gaya, Nerea, Anemos) doprowadziła świat na skraj całkowitej zagłady. Kataklizmy wywołane ich starciami zagrażały przetrwaniu wszystkich ras. W obliczu ostatecznego unicestwienia doszło do bezprecedensowego wydarzenia w historii świata:
+
+* **Przymierze Ponad Podziałami**: Najpotężniejsi magowie i mędrcy ze wszystkich czterech ras (Ludzi, Korganów, Aerytów i Nereidów) zjednoczyli się, tworząc legendarną **Radę Żywiołów** (lub *Konklawe Przebudzonych*).
+* **Rytuał Odesłania**: Magowie ci uznali, że dopóki bogowie stąpają po świecie, wojna nigdy się nie skończy. Wykorzystując połączone moce wszystkich czterech żywiołów, odprawili potężny rytuał, który uwięził bóstwa i pogrążył je w głębokim, mistycznym letargu (śnie).
+* **Konsekwencje**: Bogowie zostali odesłani poza granice fizycznego świata, a ich bezpośrednia obecność ustała. Rasy podpisały kruchy rozejm, a magia żywiołów zaczęła być czerpana jedynie z rezydualnej energii uśpionych bogów, a nie ich bezpośredniej interwencji. 
+* **Współczesność**: Pamięć o rytuale uleciała w zapomnienie lub stała się legendą. Istnieją jednak obawy, że imperialne ambicje ludzi lub desperacja uciemiężonych Korganów mogą doprowadzić do prób przebudzenia któregoś z bóstw, co na nowo rozpętałoby katastrofalną wojnę.
+
+---
+
 ## 🛐 Boski Panteon i Powiązane Rasy
 
 ### 🔥 Bóg Ognia: Pyrakos (Dawca Iskry)

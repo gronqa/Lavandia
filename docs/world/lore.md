@@ -44,6 +44,26 @@ Mieszkańcy świata są humanoidalni, ale posiadają unikalne cechy fizyczne pow
    * **Duchowość i wierzenia**: W przeciwieństwie do pragmatycznych ludzi, Korganie głęboko i szczerze czczą boginię ziemi, Gayę. Wierzą w reinkarnację i wieczny cykl natury – wierzą, że po śmierci odrodzą się jako zwierzę, roślina lub inny element puszczy. Z powodu tej duchowości i wiary w jedność z naturą są często wyszydzani przez ludzi, którzy uważają ich wierzenia za prymitywne zabobony.
    * **Kowalstwo i rzemiosło**: Mając naturalny dostęp do najgłębszych bogactw ziemi – rzadkich, niezwykle wytrzymałych super-minerałów i rud metali – Korganie stali się legendarnymi kowalami. Umiejętność tę rozwinęli dzięki dawnemu sojuszowi z ludźmi, od których nauczyli się kontrolować ogień Pyrakosa do celów metalurgicznych. Ich oręż i pancerze wykuwane z unikalnych stopów nie mają sobie równych pod względem wytrzymałości.
    * **Sytuacja społeczna**: Mimo dawnego sojuszu i handlu bronią, ludzie zawsze traktowali Korganów z góry jako istot "bardziej prymitywnych". Ostatecznie doprowadziło to do zdrady przymierza i najazdu ludzi na ich tereny w celu eksploatacji złóż i lasów.
+   * **Styl Walki**: Korganie dzielą się na dwa obozy bojowe:
+     1. **Szkoła Stali i Siły**: Wojownicy stawiający na maksymalną siłę fizyczną, odziani w ciężkie zbroje płytowe, posługujący się dwuręcznymi toporami lub dwoma toporami jednoręcznymi oraz ciężkimi młotami bojowymi (inspirowanymi ich pracami przy budowie tam).
+     2. **Szkoła Magii Ziemi**: Kapłani i szamani, którzy manipulują gruntem, skałami i roślinnością, tworząc osłony, wywołując trzęsienia ziemi lub czasowo utwardzając własne ciała do twardości granitu.
+
+---
+
+## 🔮 Magia Żywiołów i Predyspozycje Rasowe
+
+W uniwersum Lavandii energia żywiołów przepływa przez wszystkie żywe istoty. W teorii każdy przedstawiciel dowolnej rasy może nauczyć się posługiwać każdym z czterech żywiołów, jednak w praktyce istnieją surowe ograniczenia:
+
+### Czystsza Krew (Czystej Krwi Rasy)
+Przedstawiciele czystej krwi mają silną, naturalną predyspozycję do swojego macierzystego żywiołu:
+- **Korganie** $\rightarrow$ Ziemia (najłatwiej przychodzi im magia ziemi, rzucanie czarów innych żywiołów wymaga od nich tytanicznego wysiłku i rzadko osiąga wysoką skuteczność).
+- **Ludzie** $\rightarrow$ Ogień.
+- **Aeryci** $\rightarrow$ Wiatr.
+- **Nereidzi** $\rightarrow$ Woda.
+
+### Mieszańcy (Hybrydy)
+Dzieci z mieszanych związków (np. pół-człowiek, pół-korgan) są rzadkością i często spotykają się z ostracyzmem społecznym. Mają jednak unikalny dar – ich krew łączy energie różnych żywiołów. 
+- **Zdolności**: Mieszańcy mają znacznie większe predyspozycje do nauki i płynnego przełączania się między różnymi żywiołami. Stanowi to doskonałe podłoże fabularne dla głównego bohatera gry, wyjaśniające jego unikalny dar dynamicznego władania żywiołami w walce.
 3. **Aeryci** (Wiatr): Smukli, posiadający szarawą cerę i szlachetne, lekko elfickie rysy twarzy. Zamieszkują wysokie szczyty i wieże, cenią wolność i intelekt.
 4. **Nereidzi** (Woda): Pół-wodna rasa o rybich/syrenich cechach, poruszająca się sprawnie zarówno w głębinach, jak i na lądzie.
 

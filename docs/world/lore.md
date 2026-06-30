@@ -38,7 +38,10 @@ Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielk
 ## 👥 Rasy Świata Lavandii
 Mieszkańcy świata są humanoidalni, ale posiadają unikalne cechy fizyczne powiązane z ich żywiołowym pochodzeniem.
 
-1. **Ludzie** (Ogień): Dynamiczni, ambitni, dominujący militarnie dzięki potędze ognia i metalurgii.
+1. **Ludzie** (Ogień):
+   * **Charakterystyka kulturowa**: Ambitni, zorganizowani i dominujący militarnie. Otrzymanie "Iskry" od Pyrakosa zapoczątkowało ich gwałtowny rozwój, ale z czasem przyniosło zepsucie. Posiadanie ognia zrodziło w nich ogromną pazerność, butę oraz przekonanie o własnej wyższości nad innymi rasami.
+   * **Imperializm**: Ludzkie imperium stale dąży do ekspansji terytorialnej i podboju innych krain w celu zdobywania surowców. Inne rasy traktują instrumentalnie, jako siłę roboczą lub poddanych gorszej kategorii.
+   * **Kult Czystej Krwi**: W społeczeństwie ludzi panuje obsesja na punkcie czystości krwi. Czystej krwi człowiek stoi na szczycie hierarchii. Wszelkie mieszanki rasowe (Mieszańcy) są traktowane z pogardą, spychane na margines społeczny i pozbawione praw. Prawo jest dla nich bezwzględne – drobne przewinienie, które czystemu człowiekowi uszłoby na sucho, w przypadku mieszańca kończy się najsurowszym wyrokiem.
 2. **Korganie** (Ziemia):
    * **Wygląd fizyczny**: Potężnie zbudowani, niezwykle wysocy i umięśnieni humanoidy (mocno inspirowani Nordeinami). Posiadają szaro-brązową, twardą skórę, często krótkie, jasne/srebrzyste włosy oraz surowe, groźne rysy twarzy. Ich sylwetka emanuje surową siłą fizyczną.
    * **Duchowość i wierzenia**: W przeciwieństwie do pragmatycznych ludzi, Korganie głęboko i szczerze czczą boginię ziemi, Gayę. Wierzą w reinkarnację i wieczny cykl natury – wierzą, że po śmierci odrodzą się jako zwierzę, roślina lub inny element puszczy. Z powodu tej duchowości i wiary w jedność z naturą są często wyszydzani przez ludzi, którzy uważają ich wierzenia za prymitywne zabobony.

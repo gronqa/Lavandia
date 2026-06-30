@@ -28,6 +28,23 @@ Połączeni miłością swoich bóstw, walczą na innych frontach z ludzką eksp
 
 ---
 
+## ⚖️ Szara Moralność Konfliktu (Brak podziału na Dobro i Zło)
+
+Konflikt w prowincji nie jest czarno-biały. Każda ze stron ma swoje racje, ale też mroczne strony:
+
+### Ludzkie Imperium (Okupanci)
+* **Złe strony**: Imperialna buta, chciwość, bezwzględna eksploatacja zasobów puszczy, nieludzkie traktowanie mieszańców i jeńców w obozach.
+* **Neutralne/Dobre strony**: Przynoszą prawo, porządek i cywilizację. Budują drogi, mosty i chronią trakty handlowe przed krwiożerczymi bestiami puszczy. Dla wielu zwykłych obywateli Imperium to jedyna tarcza przed chaosem dziczy. Wielu strażników to zwykli poborowi, którzy boją się lasu i chcą tylko wrócić do rodzin.
+
+### Korganie (Ruch Oporu)
+* **Dobre strony**: Walka o wolność, obrona swoich domów i puszczy, wierność naturze i bogini Gai.
+* **Mroczne strony**: Korganie z puszczy potrafią być skrajnie brutalni. Dokonują krwawych zasadzek na transporty, w których mordują nie tylko żołnierzy, ale też cywilnych drwali (ludzi i mieszańców). Dodatkowo ich szamani są dogmatycznymi fanatykami, którzy gardzą mieszańcami i odrzucają jakąkolwiek możliwość dyplomacji.
+
+### Więźniowie i Mieszańcy
+* **Sytuacja**: Są ofiarami niesprawiedliwego systemu, ale wewnątrz obozu nie ma solidarności. Silniejsi więźniowie okradają słabszych, tworzą bezwzględne gangi, a niektórzy donoszą strażnikom na współwięźniów w zamian za dodatkowy bochenek chleba. Przetrwanie w obozie wymaga brudnych kompromisów.
+
+---
+
 ## 🛐 Zakony Magiczne
 - **Magowie Ognia (Ludzie)**: Wspierają machinę wojenną zaborcy, pilnują pieców hutniczych.
 - **Magowie Ziemi (Korganie)**: Kapłani Gai, ukrywają się w najgłębszych partiach lasu, próbując leczyć puszczę z ran zadawanych przez topory ludzi.

@@ -39,7 +39,11 @@ Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielk
 Mieszkańcy świata są humanoidalni, ale posiadają unikalne cechy fizyczne powiązane z ich żywiołowym pochodzeniem.
 
 1. **Ludzie** (Ogień): Dynamiczni, ambitni, dominujący militarnie dzięki potędze ognia i metalurgii.
-2. **Korganie** (Ziemia): Bardzo wysocy, potężnie zbudowani, niezwykle silni fizycznie. Zamieszkują gigantyczne lasy i grzybowe megastruktury, potrafią bronić swoich ziem.
+2. **Korganie** (Ziemia):
+   * **Wygląd fizyczny**: Potężnie zbudowani, niezwykle wysocy i umięśnieni humanoidy (mocno inspirowani Nordeinami). Posiadają szaro-brązową, twardą skórę, często krótkie, jasne/srebrzyste włosy oraz surowe, groźne rysy twarzy. Ich sylwetka emanuje surową siłą fizyczną.
+   * **Duchowość i wierzenia**: W przeciwieństwie do pragmatycznych ludzi, Korganie głęboko i szczerze czczą boginię ziemi, Gayę. Wierzą w reinkarnację i wieczny cykl natury – wierzą, że po śmierci odrodzą się jako zwierzę, roślina lub inny element puszczy. Z powodu tej duchowości i wiary w jedność z naturą są często wyszydzani przez ludzi, którzy uważają ich wierzenia za prymitywne zabobony.
+   * **Kowalstwo i rzemiosło**: Mając naturalny dostęp do najgłębszych bogactw ziemi – rzadkich, niezwykle wytrzymałych super-minerałów i rud metali – Korganie stali się legendarnymi kowalami. Umiejętność tę rozwinęli dzięki dawnemu sojuszowi z ludźmi, od których nauczyli się kontrolować ogień Pyrakosa do celów metalurgicznych. Ich oręż i pancerze wykuwane z unikalnych stopów nie mają sobie równych pod względem wytrzymałości.
+   * **Sytuacja społeczna**: Mimo dawnego sojuszu i handlu bronią, ludzie zawsze traktowali Korganów z góry jako istot "bardziej prymitywnych". Ostatecznie doprowadziło to do zdrady przymierza i najazdu ludzi na ich tereny w celu eksploatacji złóż i lasów.
 3. **Aeryci** (Wiatr): Smukli, posiadający szarawą cerę i szlachetne, lekko elfickie rysy twarzy. Zamieszkują wysokie szczyty i wieże, cenią wolność i intelekt.
 4. **Nereidzi** (Woda): Pół-wodna rasa o rybich/syrenich cechach, poruszająca się sprawnie zarówno w głębinach, jak i na lądzie.
 

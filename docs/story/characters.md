@@ -1,17 +1,18 @@
 # Postacie (Lavandia)
 
-Informacje o głównym bohaterze, kluczowych postaciach niezależnych (NPC) oraz antagonistach.
+Opis bohatera oraz kluczowych postaci w świecie gry.
 
 ---
 
 ## 👤 Główny Bohater (Protagonista)
-*Kim jest gracz? Czy ma zdefiniowaną przeszłość (jak Wiedźmin), czy jest "czystą kartą" (jak w Gothicu/TES)?*
-- (Do ustalenia)
 
-## 🤝 Kluczowi Towarzysze / Sojusznicy
-*Postacie, które pomagają graczowi i budują z nim relacje.*
-- (Do ustalenia)
+- **Tożsamość**: Czysta karta. Gracz nie ma zdefiniowanej tożsamości, imienia ani chwalebnej przeszłości.
+- **Punkt startowy**: Zaczyna jako jeden z wielu skazańców o najniższym statusie społecznym. 
+- **Zadanie na starcie**: Pracuje jako drwal w obozie pracy przymusowej, karczując las pod czujnym okiem okupantów.
+- **Rozwój**: Od bezimiennego robotnika z siekierą do mistrza władania żywiołami, który może odmienić losy krainy.
 
-## 👹 Główny Antagonista (Czarny Charakter)
-*Kto stoi po drugiej stronie barykady i jakie są jego motywacje?*
-- (Do ustalenia)
+---
+
+## 👥 Typy Postaci w Obozie Pracy
+- **Więźniowie/Robotnicy**: Współtowarzysze niedoli. Niektórzy pogodzeni z losem, inni planujący bunt lub współpracujący ze strażą dla lepszych racji żywnościowych.
+- **Strażnicy i Nadzorcy**: Reprezentanci okupanta. Brutalni, skorumpowani, dbający jedynie o normy wycinki drewna.

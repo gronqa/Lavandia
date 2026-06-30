@@ -53,7 +53,10 @@ Mieszkańcy świata są humanoidalni, ale posiadają unikalne cechy fizyczne pow
   2. *Szkoła Magii Ziemi*: Szamani manipulujący gruntem, skałami i roślinnością, potrafiący czasowo utwardzać swoje ciała do twardości granitu.
 
 ### 3. Aeryci (Wiatr)
-- **Wygląd i styl życia**: Smukli, posiadający szarawą cerę i szlachetne, lekko elfickie rysy twarzy. Zamieszkują wysokie szczyty, klify i wieże. Cenią ponad wszystko wolność, chłodną logikę i intelekt.
+- **Wygląd fizyczny**: Smukli, wysocy o lekko wychudzonej, lecz wysportowanej sylwetce. Ich skóra ma popielato-szary, marmurkowy odcień z delikatnymi, ciemniejszymi wzorami. Charakteryzują się mocno wydłużonymi, elfickimi uszami, wysokimi kośćmi policzkowymi oraz dumnym, dystyngowanym spojrzeniem. Ich oczy mają głęboki, bordowo-czerwony odcień, co nadaje im egzotyczny i mistyczny wygląd.
+- **Fizjologia i poruszanie się**: Dzięki specyficznej budowie ciała (bardzo lekki kościec) oraz wrodzonej magii wiatru potrafią wykonywać niebywałe skoki, łagodnie opadać z olbrzymich wysokości oraz szybować na wietrze (np. przy użyciu specjalnych, lekkich peleryn lub skrzydeł szybowcowych).
+- **Kultura i zachowanie**: Ucieleśnienie dystyngowania i elegancji. Aeryci wysławiają się w sposób niezwykle poetycki i wyszukany, używając bogatego słownictwa. Są dumni, powściągliwi i chłodni w obyciu. Wpisują się w klasyczny stereotyp dystyngowanych, wyniosłych elfów.
+- **Technologia i styl życia**: Są wysoce zaawansowani technologicznie. Ich górskie wieże i osady pełne są skomplikowanych mechanizmów napędzanych wiatrem (np. podniebne statki żaglowe, windy mechaniczne, zaawansowane przyrządy astronomiczne i optyczne).
 - **Mentalność**: Uważają się za najbardziej rozwiniętą intelektualnie i kulturowo rasę świata. Ta wysoka samoocena sprawia, że patrzą z góry na swoich sojuszników, Nereidów, traktując ich protekcjonalnie i z dystansem.
 
 ### 4. Nereidzi (Woda)

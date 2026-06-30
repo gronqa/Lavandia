@@ -26,7 +26,7 @@ Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielk
 ### 💧 Bogini Wody: Nerea (Pani Fal)
 *Stworzycielka rasy Nereidów. Reprezentuje płynność, uzdrawianie, głębiny, ale i niszczycielskie tsunami.*
 - **Mitologia**: Zareagowała na brutalność ludzi wobec innych ras (np. smażenie Nereidów nad ogniem). Nauczyła Nereidów władania wodą, by zatapiać ludzkie osady przybrzeżne.
-- **Relacje**: Połączona domniemanym, mistycznym romansem z Bogiem Wiatru, Anemosem (sojusz żywiołów neutralnych).
+- **Relacje**: Połączona domniemanym, mistycznym romansem z Bakiem Wiatru, Anemosem (sojusz żywiołów neutralnych).
 
 ### 💨 Bóg Wiatru: Anemos (Władca Wichrów)
 *Stworzyciel rasy Aerytów. Reprezentuje wolność, zmianę, zwinność i intelekt.*
@@ -38,18 +38,28 @@ Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielk
 ## 👥 Rasy Świata Lavandii
 Mieszkańcy świata są humanoidalni, ale posiadają unikalne cechy fizyczne powiązane z ich żywiołowym pochodzeniem.
 
-1. **Ludzie** (Ogień):
-   * **Charakterystyka kulturowa**: Ambitni, zorganizowani i dominujący militarnie. Otrzymanie "Iskry" od Pyrakosa zapoczątkowało ich gwałtowny rozwój, ale z czasem przyniosło zepsucie. Posiadanie ognia zrodziło w nich ogromną pazerność, butę oraz przekonanie o własnej wyższości nad innymi rasami.
-   * **Imperializm**: Ludzkie imperium stale dąży do ekspansji terytorialnej i podboju innych krain w celu zdobywania surowców. Inne rasy traktują instrumentalnie, jako siłę roboczą lub poddanych gorszej kategorii.
-   * **Kult Czystej Krwi**: W społeczeństwie ludzi panuje obsesja na punkcie czystości krwi. Czystej krwi człowiek stoi na szczycie hierarchii. Wszelkie mieszanki rasowe (Mieszańcy) są traktowane z pogardą, spychane na margines społeczny i pozbawione praw. Prawo jest dla nich bezwzględne – drobne przewinienie, które czystemu człowiekowi uszłoby na sucho, w przypadku mieszańca kończy się najsurowszym wyrokiem.
-2. **Korganie** (Ziemia):
-   * **Wygląd fizyczny**: Potężnie zbudowani, niezwykle wysocy i umięśnieni humanoidy (mocno inspirowani Nordeinami). Posiadają szaro-brązową, twardą skórę, często krótkie, jasne/srebrzyste włosy oraz surowe, groźne rysy twarzy. Ich sylwetka emanuje surową siłą fizyczną.
-   * **Duchowość i wierzenia**: W przeciwieństwie do pragmatycznych ludzi, Korganie głęboko i szczerze czczą boginię ziemi, Gayę. Wierzą w reinkarnację i wieczny cykl natury – wierzą, że po śmierci odrodzą się jako zwierzę, roślina lub inny element puszczy. Z powodu tej duchowości i wiary w jedność z naturą są często wyszydzani przez ludzi, którzy uważają ich wierzenia za prymitywne zabobony.
-   * **Kowalstwo i rzemiosło**: Mając naturalny dostęp do najgłębszych bogactw ziemi – rzadkich, niezwykle wytrzymałych super-minerałów i rud metali – Korganie stali się legendarnymi kowalami. Umiejętność tę rozwinęli dzięki dawnemu sojuszowi z ludźmi, od których nauczyli się kontrolować ogień Pyrakosa do celów metalurgicznych. Ich oręż i pancerze wykuwane z unikalnych stopów nie mają sobie równych pod względem wytrzymałości.
-   * **Sytuacja społeczna**: Mimo dawnego sojuszu i handlu bronią, ludzie zawsze traktowali Korganów z góry jako istot "bardziej prymitywnych". Ostatecznie doprowadziło to do zdrady przymierza i najazdu ludzi na ich tereny w celu eksploatacji złóż i lasów.
-   * **Styl Walki**: Korganie dzielą się na dwa obozy bojowe:
-     1. **Szkoła Stali i Siły**: Wojownicy stawiający na maksymalną siłę fizyczną, odziani w ciężkie zbroje płytowe, posługujący się dwuręcznymi toporami lub dwoma toporami jednoręcznymi oraz ciężkimi młotami bojowymi (inspirowanymi ich pracami przy budowie tam).
-     2. **Szkoła Magii Ziemi**: Kapłani i szamani, którzy manipulują gruntem, skałami i roślinnością, tworząc osłony, wywołując trzęsienia ziemi lub czasowo utwardzając własne ciała do twardości granitu.
+### 1. Ludzie (Ogień)
+- **Charakterystyka kulturowa**: Ambitni, zorganizowani i dominujący militarnie. Otrzymanie "Iskry" od Pyrakosa zapoczątkowało ich gwałtowny rozwój, ale z czasem przyniosło zepsucie. Posiadanie ognia zrodziło w nich ogromną pazerność, butę oraz przekonanie o własnej wyższości nad innymi rasami.
+- **Imperializm**: Ludzkie imperium stale dąży do ekspansji terytorialnej i podboju innych krain w celu zdobywania surowców. Inne rasy traktują instrumentalnie, jako siłę roboczą lub poddanych gorszej kategorii.
+- **Kult Czystej Krwi**: W społeczeństwie ludzi panuje obsesja na punkcie czystości krwi. Czystej krwi człowiek stoi na szczycie hierarchii. Wszelkie mieszanki rasowe (Mieszańcy) są traktowane z pogardą, spychane na margines społeczny i pozbawione praw. Prawo jest dla nich bezwzględne.
+
+### 2. Korganie (Ziemia)
+- **Wygląd fizyczny**: Potężnie zbudowani, niezwykle wysocy i umięśnieni humanoidy (mocno inspirowani Nordeinami). Posiadają szaro-brązową, twardą skórę, często krótkie, jasne/srebrzyste włosy oraz surowe, groźne rysy twarzy. Ich sylwetka emanuje surową siłą fizyczną.
+- **Duchowość i wierzenia**: W przeciwieństwie do pragmatycznych ludzi, Korganie głęboko i szczerze czczą boginię ziemi, Gayę. Wierzą w reinkarnację i wieczny cykl natury – wierzą, że po śmierci odrodzą się jako zwierzę, roślina lub inny element puszczy. Z powodu tej duchowości i wiary w jedność z naturą są często wyszydzani przez ludzi.
+- **Kowalstwo i rzemiosło**: Mając naturalny dostęp do najgłębszych bogactw ziemi – rzadkich, niezwykle wytrzymałych super-minerałów i rud metali – Korganie stali się legendarnymi kowalami. Umiejętność tę rozwinęli dzięki dawnemu sojuszowi z ludźmi, od których nauczyli się kontrolować ogień Pyrakosa do celów metalurgicznych.
+- **Sytuacja społeczna**: Mimo dawnego sojuszu i handlu bronią, ludzie zawsze traktowali Korganów z góry jako istot "bardziej prymitywnych". Ostatecznie doprowadziło to do zdrady przymierza i najazdu ludzi na ich tereny w celu eksploatacji złóż i lasów.
+- **Styl Walki**: Korganie dzielą się na dwa obozy bojowe:
+  1. *Szkoła Stali i Siły*: Wojownicy stawiający na siłę fizyczną, w ciężkich zbrojach płytowych, posługujący się toporami i młotami bojowymi.
+  2. *Szkoła Magii Ziemi*: Szamani manipulujący gruntem, skałami i roślinnością, potrafiący czasowo utwardzać swoje ciała do twardości granitu.
+
+### 3. Aeryci (Wiatr)
+- **Wygląd i styl życia**: Smukli, posiadający szarawą cerę i szlachetne, lekko elfickie rysy twarzy. Zamieszkują wysokie szczyty, klify i wieże. Cenią ponad wszystko wolność, chłodną logikę i intelekt.
+- **Mentalność**: Uważają się za najbardziej rozwiniętą intelektualnie i kulturowo rasę świata. Ta wysoka samoocena sprawia, że patrzą z góry na swoich sojuszników, Nereidów, traktując ich protekcjonalnie i z dystansem.
+
+### 4. Nereidzi (Woda)
+- **Pochodzenie i ewolucja**: Pierwotnie żyli wyłącznie pod wodą, gdzie budowali osady z żywych raf koralowych i głębinowych skał. Gdy Pyrakos dał ludziom ogień, zaburzając równowagę, bogini wody, Nerea, przyspieszyła ewolucję swojej rasy. Dała im możliwość wyjścia na ląd, wykształcając u nich płuca (obok skrzeli) i dostosowując ich ciała do poruszania się w świecie nadwodnym.
+- **Fizjologia**: Pół-wodna rasa. Choć potrafią swobodnie i bez ograniczeń czasowych przebywać na lądzie, wciąż najlepiej i najbardziej naturalnie czują się w środowisku wodnym (gdzie ich zwinność i prędkość są niezrównane). Mają drapieżne, syrenie cechy, lekko łuskowatą skórę i błony pławne.
+- **Stosunki społeczne**: W sojuszu z Aerytami są traktowani jako ta "gorsza", bardziej prymitywna strona. Aeryci patrzą na nich z góry, podobnie jak Ludzie na Korganów. Tworzy to silne napięcia wewnątrz koalicji Wiatru i Wody.
 
 ---
 
@@ -59,16 +69,13 @@ W uniwersum Lavandii energia żywiołów przepływa przez wszystkie żywe istoty
 
 ### Czystsza Krew (Czystej Krwi Rasy)
 Przedstawiciele czystej krwi mają silną, naturalną predyspozycję do swojego macierzystego żywiołu:
-- **Korganie** $\rightarrow$ Ziemia (najłatwiej przychodzi im magia ziemi, rzucanie czarów innych żywiołów wymaga od nich tytanicznego wysiłku i rzadko osiąga wysoką skuteczność).
 - **Ludzie** $\rightarrow$ Ogień.
+- **Korganie** $\rightarrow$ Ziemia.
 - **Aeryci** $\rightarrow$ Wiatr.
 - **Nereidzi** $\rightarrow$ Woda.
+
+Rzucanie czarów innych żywiołów wymaga od czystej krwi ras tytanicznego wysiłku i lat treningów, a efekty i tak są o wiele słabsze.
 
 ### Mieszańcy (Hybrydy)
 Dzieci z mieszanych związków (np. pół-człowiek, pół-korgan) są rzadkością i często spotykają się z ostracyzmem społecznym. Mają jednak unikalny dar – ich krew łączy energie różnych żywiołów. 
 - **Zdolności**: Mieszańcy mają znacznie większe predyspozycje do nauki i płynnego przełączania się między różnymi żywiołami. Stanowi to doskonałe podłoże fabularne dla głównego bohatera gry, wyjaśniające jego unikalny dar dynamicznego władania żywiołami w walce.
-3. **Aeryci** (Wiatr): Smukli, posiadający szarawą cerę i szlachetne, lekko elfickie rysy twarzy. Zamieszkują wysokie szczyty i wieże, cenią wolność i intelekt.
-4. **Nereidzi** (Woda): Pół-wodna rasa o rybich/syrenich cechach, poruszająca się sprawnie zarówno w głębinach, jak i na lądzie.
-
-### Czystość Krwi i Mieszanie Ras
-Rasy mogą się krzyżować (np. potomek Człowieka i Aerytki), jednak w większości społeczności jest to tabuizowane lub traktowane jako hańba. Dominują społeczności czystej krwi. Potomstwo mieszanej krwi często spotyka się z ostracyzmem, co stanowi doskonały element dramaturgii fabularnej (np. nieślubne dziecko władcy o mieszanej krwi).

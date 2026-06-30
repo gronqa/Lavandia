@@ -21,10 +21,11 @@ Korganie zostali zdradzeni i wyparci ze swoich ziem przez dawnych ludzkich sojus
 - **Postawa**: Wobec ludzi odczuwają skrajną nienawiść. Gracz, mimo że jest czystą kartą, będzie musiał pokonać ogromne uprzedzenia Korganów, by zyskać ich zaufanie.
 
 ## 💨 3. Koalicja Powietrzno-Wodna: Aeryci (Anemos) i Nereidzi (Nerea)
-Połączeni miłością swoich bóstw, walczą na innych frontach z ludzką ekspansją.
-- **Aeryci**: Wysyłają swoich zwiadowców i magów wiatru w rejon puszczy, by szpiegować ludzi i szkodzić Korganom (ponieważ wciąż pamiętają stare urazy wojenny z Korganami, mimo że teraz obaj mają wspólnego wroga – Ludzi).
-- **Nereidzi**: Ich oddziały mogą operować przy ujściach rzek puszczy, odcinając ludziom drogi spławiania drewna.
-- **Skomplikowane relacje**: Choć Korganie i Aeryci/Nereidzi walczą z tym samym wrogiem (Ludźmi), nie są sojusznikami. Ich dawne wojny i wrogie żywioły wciąż generują ogromną nieufność.
+Połączeni sojuszem i miłością swoich bóstw, walczą z ludzką ekspansją na innych frontach, jednak ich sojusz nie jest idealny.
+- **Konflikt Klasowy**: Podobnie jak w przypadku Ludzi i Korganów, tutaj również występuje silna asymetria społeczna. Aeryci, z racji swojej wysokiej inteligencji, chłodnej logiki i zaawansowanej kultury, uważają się za rasę wyższą. Patrzą na Nereidów (których ewolucja na lądzie nastąpiła stosunkowo niedawno pod wpływem Nerei) z góry, traktując ich jak prymitywnych i dzikich kuzynów.
+- **Aeryci**: Wysyłają swoich zwiadowców i magów wiatru w rejon puszczy, by szpiegować ludzi i szkodzić Korganom (ponieważ wciąż pamiętają stare urazy wojenne z Korganami, mimo że teraz obaj mają wspólnego wroga – Ludzi).
+- **Nereidzi**: Ich oddziały operują przy ujściach rzek puszczy, odcinając ludziom drogi spławiania drewna. Znoszą protekcjonalne traktowanie ze strony Aerytów, ale rośnie w nich frustracja.
+- **Skomplikowane relacje**: Choć Korganie i Aeryci/Nereidzi walczą z tym samym wrogiem (Ludźmi), nie są sojusznikami. Ich dawne wojny i wrogie żywioły wciąż generują ogromną nieufność. Korganie i Nereidzi współdzielą jednak ból bycia "tą gorszą rasą" w swoich sojuszach, co w przyszłości może otworzyć drzwi do nieoczekiwanego porozumienia.
 
 ---
 

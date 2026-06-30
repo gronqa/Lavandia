@@ -13,29 +13,25 @@ Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielk
 
 ## 🛐 Boski Panteon i Powiązane Rasy
 
-### 🔥 Bóg Ognia (Dawca Iskry)
+### 🔥 Bóg Ognia: Pyrakos (Dawca Iskry)
 *Stworzyciel rasy Ludzi. Reprezentuje ambicję, ekspansję, ciepło, ale i destrukcję.*
-- **Imię (propozycja)**: Ignar / Pyrakos
 - **Mitologia**: Złamał pakt o nieingerencji i podarował ludziom "Iskrę" (ogień). Ludzie nauczyli się go kontrolować, co szybko doprowadziło do ich dominacji technologicznej i militarnej nad innymi rasami.
-- **Relacje**: W stałym, "gorącym" sojuszu z Boginią Ziemi.
+- **Relacje**: W stałym, "gorącym" sojuszu z Boginią Ziemi, Gayą.
 
-### 🪨 Bogini Ziemi (Strażniczka Tamy)
+### 🪨 Bogini Ziemi: Gaya (Strażniczka Tamy)
 *Stworzycielka rasy Korganów. Reprezentuje stałość, siłę fizyczną, wzrost i obronę.*
-- **Imię (propozycja)**: Telluria / Gaea
-- **Mitologia**: Widząc spustoszenie i powodzie wywołane przez Boginię Wody, stworzyła gigantyczną, szybkorosnącą roślinność oraz wielkie grzyby, w których osiedlili się Korganie. Pomogła im wybudować tamy chroniące przed potopem.
-- **Relacje**: Sprzymierzona z Bogiem Ognia.
+- **Mitologia**: Widząc spustoszenie i powodzie wywołane przez Boginię Wody, Nereę, stworzyła gigantyczną, szybkorosnącą roślinność oraz wielkie grzyby, w których osiedlili się Korganie. Pomogła im wybudować tamy chroniące przed potopem.
+- **Relacje**: Sprzymierzona z Bogiem Ognia, Pyrakosem.
 
-### 💧 Bogini Wody (Pani Fal)
+### 💧 Bogini Wody: Nerea (Pani Fal)
 *Stworzycielka rasy Nereidów. Reprezentuje płynność, uzdrawianie, głębiny, ale i niszczycielskie tsunami.*
-- **Imię (propozycja)**: Nerea / Undina
 - **Mitologia**: Zareagowała na brutalność ludzi wobec innych ras (np. smażenie Nereidów nad ogniem). Nauczyła Nereidów władania wodą, by zatapiać ludzkie osady przybrzeżne.
-- **Relacje**: Połączona domniemanym, mistycznym romansem z Bogiem Wiatru (sojusz żywiołów neutralnych).
+- **Relacje**: Połączona domniemanym, mistycznym romansem z Bogiem Wiatru, Anemosem (sojusz żywiołów neutralnych).
 
-### 💨 Bóg Wiatru (Władca Wichrów)
+### 💨 Bóg Wiatru: Anemos (Władca Wichrów)
 *Stworzyciel rasy Aerytów. Reprezentuje wolność, zmianę, zwinność i intelekt.*
-- **Imię (propozycja)**: Zephyros / Aurelius
 - **Mitologia**: Nie mógł bezczynnie patrzeć na tamy wzniesione przez Korganów. Nauczył Aerytów kontrolowania powietrza, by za pomocą potężnych tornad niszczyć umocnienia Korganów.
-- **Relacje**: Związany z Boginią Wody sojuszem i miłością.
+- **Relacje**: Związany z Boginią Wody, Nereą, sojuszem i miłością.
 
 ---
 

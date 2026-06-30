@@ -1,33 +1,51 @@
 # Lore i Historia (Lavandia)
 
-Mitologia świata opiera się na pierwotnych siłach czterech żywiołów.
+Mitologia świata opiera się na pierwotnych siłach czterech żywiołów oraz ich boskich uosobieniach.
 
 ---
 
-## 🌌 Mit o Stworzeniu Świata i Boskie Istoty
-Świat Lavandii został ukształtowany i jest podtrzymywany przez cztery potężne, boskie istoty reprezentujące żywioły. Każda z nich posiada własne kapłaństwo, magów oraz filozofię życiową.
+## 🌌 Kosmologia i Wybuch Żywiołów
+Wszechświat Lavandii narodził się w momencie gwałtownego zespolenia czterech wolno dryfujących cząstek czystej energii: Ognia, Wody, Ziemi i Wiatru. Wcześniej balansowały się one w idealnej pustce (stanie zerowym), lecz ich ostateczna kolizja wywołała kosmiczną eksplozję, dając początek czasowi, przestrzeni oraz czterem boskim istotom uosabiającym te żywioły.
 
-### 🔥 Bóstwo Ognia
-*Reprezentuje destrukcję, odrodzenie, pasję i oczyszczenie.*
-- **Magowie Ognia**: Skupieni na magii zniszczenia, sile woli i rytuałach przejścia.
-- (Do ustalenia imię bóstwa i szczegóły wierzeń)
-
-### 💧 Bóstwo Wody
-*Reprezentuje płynność, adaptację, uzdrawianie i mądrość.*
-- **Magowie Wody**: Strażnicy wiedzy historycznej, uzdrowiciele, badacze praw natury.
-- (Do ustalenia imię bóstwa i szczegóły wierzeń)
-
-### 🪨 Bóstwo Ziemi
-*Reprezentuje stabilność, wytrzymałość, siłę fizyczną i ochronę.*
-- **Magowie Ziemi**: Związani z minerałami, kowalstwem, obroną i spójnością świata.
-- (Do ustalenia imię bóstwa i szczegóły wierzeń)
-
-### 💨 Bóstwo Wiatru
-*Reprezentuje wolność, szybkość, zmianę i duchowość.*
-- **Magowie Wiatru**: Pustelnicy, podróżnicy, mistrzowie iluzji i zwinności.
-- (Do ustalenia imię bóstwa i szczegóły wierzeń)
+Przez stulecia bogowie żyli w harmonii, co pozwoliło na rozwój czterech wielkich ras. Spokój został jednak zburzony, gdy bogowie zaczęli bezpośrednio ingerować w losy śmiertelników.
 
 ---
 
-## 🔮 Magia Żywiołów w Świecie Gry
-Magia nie jest powszechna. By posługiwać się magią danego żywiołu, śmiertelnicy muszą zyskać przychylność odpowiedniego bóstwa lub przejść rygorystyczny proces szkolenia pod okiem zakonów magów. Okupanci mogą próbować kontrolować lub zakazać używania magii żywiołów przez miejscową ludność.
+## 🛐 Boski Panteon i Powiązane Rasy
+
+### 🔥 Bóg Ognia (Dawca Iskry)
+*Stworzyciel rasy Ludzi. Reprezentuje ambicję, ekspansję, ciepło, ale i destrukcję.*
+- **Imię (propozycja)**: Ignar / Pyrakos
+- **Mitologia**: Złamał pakt o nieingerencji i podarował ludziom "Iskrę" (ogień). Ludzie nauczyli się go kontrolować, co szybko doprowadziło do ich dominacji technologicznej i militarnej nad innymi rasami.
+- **Relacje**: W stałym, "gorącym" sojuszu z Boginią Ziemi.
+
+### 🪨 Bogini Ziemi (Strażniczka Tamy)
+*Stworzycielka rasy Korganów. Reprezentuje stałość, siłę fizyczną, wzrost i obronę.*
+- **Imię (propozycja)**: Telluria / Gaea
+- **Mitologia**: Widząc spustoszenie i powodzie wywołane przez Boginię Wody, stworzyła gigantyczną, szybkorosnącą roślinność oraz wielkie grzyby, w których osiedlili się Korganie. Pomogła im wybudować tamy chroniące przed potopem.
+- **Relacje**: Sprzymierzona z Bogiem Ognia.
+
+### 💧 Bogini Wody (Pani Fal)
+*Stworzycielka rasy Nereidów. Reprezentuje płynność, uzdrawianie, głębiny, ale i niszczycielskie tsunami.*
+- **Imię (propozycja)**: Nerea / Undina
+- **Mitologia**: Zareagowała na brutalność ludzi wobec innych ras (np. smażenie Nereidów nad ogniem). Nauczyła Nereidów władania wodą, by zatapiać ludzkie osady przybrzeżne.
+- **Relacje**: Połączona domniemanym, mistycznym romansem z Bogiem Wiatru (sojusz żywiołów neutralnych).
+
+### 💨 Bóg Wiatru (Władca Wichrów)
+*Stworzyciel rasy Aerytów. Reprezentuje wolność, zmianę, zwinność i intelekt.*
+- **Imię (propozycja)**: Zephyros / Aurelius
+- **Mitologia**: Nie mógł bezczynnie patrzeć na tamy wzniesione przez Korganów. Nauczył Aerytów kontrolowania powietrza, by za pomocą potężnych tornad niszczyć umocnienia Korganów.
+- **Relacje**: Związany z Boginią Wody sojuszem i miłością.
+
+---
+
+## 👥 Rasy Świata Lavandii
+Mieszkańcy świata są humanoidalni, ale posiadają unikalne cechy fizyczne powiązane z ich żywiołowym pochodzeniem.
+
+1. **Ludzie** (Ogień): Dynamiczni, ambitni, dominujący militarnie dzięki potędze ognia i metalurgii.
+2. **Korganie** (Ziemia): Bardzo wysocy, potężnie zbudowani, niezwykle silni fizycznie. Zamieszkują gigantyczne lasy i grzybowe megastruktury, potrafią bronić swoich ziem.
+3. **Aeryci** (Wiatr): Smukli, posiadający szarawą cerę i szlachetne, lekko elfickie rysy twarzy. Zamieszkują wysokie szczyty i wieże, cenią wolność i intelekt.
+4. **Nereidzi** (Woda): Pół-wodna rasa o rybich/syrenich cechach, poruszająca się sprawnie zarówno w głębinach, jak i na lądzie.
+
+### Czystość Krwi i Mieszanie Ras
+Rasy mogą się krzyżować (np. potomek Człowieka i Aerytki), jednak w większości społeczności jest to tabuizowane lub traktowane jako hańba. Dominują społeczności czystej krwi. Potomstwo mieszanej krwi często spotyka się z ostracyzmem, co stanowi doskonały element dramaturgii fabularnej (np. nieślubne dziecko władcy o mieszanej krwi).

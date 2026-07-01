@@ -36,6 +36,7 @@ Eskalacja konfliktu między bogami (Pyrakos, Gaya, Nerea, Anemos) doprowadziła 
 
 - **Mitologia**: Widząc spustoszenie i powodzie wywołane przez Boginię Wody, Nereę, stworzyła gigantyczną, szybkorosnącą roślinność oraz wielkie grzyby, w których osiedlili się Korganie. Pomogła im wybudować tamy chroniące przed potopem.
 - **Relacje**: Sprzymierzona z Bogiem Ognia, Pyrakosem.
+- **Wygląd (Kanon Wizualny)**: Gaya ma wygląd potężnej, lecz pełnej gracji Korganianki o jednolitym, szaro-oliwkowym odcieniu skóry (na całym ciele, wliczając dłonie i bose stopy). Jej rysy twarzy są dystyngowane, ale silne i zdecydowane (mocno zarysowana linia żuchwy i kości policzkowych). Oczy ma zamknięte (stan letargu/snu), a wyraz twarzy jest spokojny i majestatyczny. Jej włosy to spektakularne, rozłożyste złoto-brązowe gałęzie drzew i jesienne liście tworzące naturalną, organiczną aureolę wokół jej głowy, ozdobioną wiankiem z leśnych kwiatów. Nosi długą, powłóczystą suknię w kolorze zgniłej zieleni i złota, utkaną z pnączy, bluszczu i leśnych liści, odsłaniającą jej bose stopy. Ma wysportowaną, atletyczną, lekko umięśnioną sylwetkę.
 
 ### 💧 Bogini Wody: Nerea (Pani Fal)
 *Stworzycielka rasy Nereidów. Reprezentuje płynność, uzdrawianie, głębiny, ale i niszczycielskie tsunami.*

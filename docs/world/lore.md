@@ -28,6 +28,9 @@ Eskalacja konfliktu między bogami (Pyrakos, Gaya, Nerea, Anemos) doprowadziła 
 *Stworzyciel rasy Ludzi. Reprezentuje ambicję, ekspansję, ciepło, ale i destrukcję.*
 - **Mitologia**: Złamał pakt o nieingerencji i podarował ludziom "Iskrę" (ogień). Ludzie nauczyli się go kontrolować, co szybko doprowadziło do ich dominacji technologicznej i militarnej nad innymi rasami.
 - **Relacje**: W stałym, "gorącym" sojuszu z Boginią Ziemi, Gayą.
+- **Wygląd (Kanon Wizualny)**: Pyrakos ma wygląd dojrzałego, dostojnego i charyzmatycznego ludzkiego mężczyzny o ciepłym, lekko opalonym odcieniu skóry, która delikatnie promieniuje ciepłem. Posiada zamknięte oczy (stan letargu) i spokojny, dumny wyraz twarzy. Jego włosy są potężnymi pasmami ognia i rozżarzonych węgielków, unoszącymi się ku górze i tworzącymi płomienną aureolę/koronę wokół jego głowy. Odziany jest w bogato zdobione, królewskie szaty w kolorach głębokiej czerwieni, złota i grafitu. Stoi boso, otoczony przez łagodne płomienie na podłodze starożytnej świątyni o ciemnych, bazaltowych łukach. Ma mocną, wyprostowaną i majestatyczną sylwetkę.
+
+![Pyrakos, Bóg Ognia](../assets/pyrakos_fire_god.png)
 
 ### 🪨 Bogini Ziemi: Gaya (Strażniczka Tamy)
 *Stworzycielka rasy Korganów. Reprezentuje stałość, siłę fizyczną, wzrost i obronę.*

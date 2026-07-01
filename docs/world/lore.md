@@ -31,6 +31,9 @@ Eskalacja konfliktu między bogami (Pyrakos, Gaya, Nerea, Anemos) doprowadziła 
 
 ### 🪨 Bogini Ziemi: Gaya (Strażniczka Tamy)
 *Stworzycielka rasy Korganów. Reprezentuje stałość, siłę fizyczną, wzrost i obronę.*
+
+![Gaya, Bogini Ziemi](../assets/gaya_earth_goddess.png)
+
 - **Mitologia**: Widząc spustoszenie i powodzie wywołane przez Boginię Wody, Nereę, stworzyła gigantyczną, szybkorosnącą roślinność oraz wielkie grzyby, w których osiedlili się Korganie. Pomogła im wybudować tamy chroniące przed potopem.
 - **Relacje**: Sprzymierzona z Bogiem Ognia, Pyrakosem.
 

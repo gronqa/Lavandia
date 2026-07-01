@@ -45,6 +45,9 @@ Eskalacja konfliktu między bogami (Pyrakos, Gaya, Nerea, Anemos) doprowadziła 
 *Stworzycielka rasy Nereidów. Reprezentuje płynność, uzdrawianie, głębiny, ale i niszczycielskie tsunami.*
 - **Mitologia**: Zareagowała na brutalność ludzi wobec innych ras (np. smażenie Nereidów nad ogniem). Nauczyła Nereidów władania wodą, by zatapiać ludzkie osady przybrzeżne.
 - **Relacje**: Połączona domniemanym, mistycznym romansem z Bakiem Wiatru, Anemosem (sojusz żywiołów neutralnych).
+- **Wygląd (Kanon Wizualny)**: Nerea ma wygląd pięknej, dystyngowanej, lecz wyraźnie nieludzkiej (amphibious/syreniej) istoty. Jej twarz posiada subtelne, rybie rysy, z brakiem klasycznego ludzkiego nosa (zastąpionego przez pionowe, wąskie nozdrza w kształcie szczelin). Jej skóra ma jasny, bladoszary lub lekko błękitnawy odcień i jest częściowo pokryta drobnymi, lśniącymi, rybimi łuskami (zwłaszcza na ramionach, biodrach i policzkach). Posiada zamknięte oczy (stan letargu) i spokojny, głęboki wyraz twarzy. Jej dłonie i stopy są płazowate, z wyraźną, cienką błoną pławną rozpiętą między palcami. Unosi się w wodzie w zmysłowej, kobiecej pozie, owinięta w przezroczyste pasma glonów, a wokół niej krąży kilka kolorowych ryb głębinowych. Całość w malarskim, bezramkowym stylu z miękkim, podwodnym światłem.
+
+![Nerea, Bogini Wody](../assets/nerea_water_goddess.png)
 
 ### 💨 Bóg Wiatru: Anemos (Władca Wichrów)
 *Stworzyciel rasy Aerytów. Reprezentuje wolność, zmianę, zwinność i intelekt.*

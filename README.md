@@ -11,6 +11,7 @@ Projekt jest obecnie w fazie planowania i projektowania świata (Game Design Doc
 - **Gatunek:** Trójwymiarowe Action RPG w świecie Fantasy.
 - **Kamera:** Widok z trzeciej osoby (TPP) – mocna inspiracja grą *Gothic*.
 - **Główne inspiracje:** *Gothic*, *Wiedźmin*, *The Elder Scrolls*.
+- **Kierunek Graficzny (Concept Art):** Klasyczny styl malarstwa olejnego (renesansowy/karciany), miękkie pociągnięcia pędzla, mistyczna atmosfera, ciepłe, nasycone barwy żywiołów (wzór: oficjalny koncept Gai).
 - **Cel:** Stworzenie wciągającego, wiarygodnego świata z naciskiem na fabułę, wyraziste postacie i angażujące mechaniki RPG.
 
 ---
